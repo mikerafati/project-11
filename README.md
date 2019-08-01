@@ -1,11 +1,7 @@
 # Overview of Austin Aiport's growth over the years
 
 
-## Team Members
-* Alan Choate
-* Mary Gong
-* Michael Alrafati
-* Dexter D'Cruz
+
 
 ## Project Description
 For airline travel to and from Austin Bergstrom Airport (AUS) ascertain growth based on the following factors
@@ -32,9 +28,5 @@ https://data.transportation.gov/Aviation/Consumer-Airfare-Report-Table-1a-All-U-
 ## Data Range
 * 2007 thru 2017
 
-## Rough Breakdown of Tasks 
-Alan worked on the line charts and the powerpoint slide deck
-Mary worked on the pie charts
-Dexter worked on the scatter plots, and heatmaps
-Michael conceptualized the project and verified passenger counts
+
 
